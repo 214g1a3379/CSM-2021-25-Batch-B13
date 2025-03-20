@@ -51,3 +51,5 @@ zope.interface==5.1.2
 djangorestframework
 joblib==1.2.0
 gensim
+keras
+tensorflow
