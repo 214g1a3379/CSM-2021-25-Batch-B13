@@ -9,7 +9,7 @@ Demo Image:
 
 ## Setup
 
-1. Git Clone the project with: ```git clone https://github.com/redianmarku/Django-Twitter-Clone.git```.
+1. Git Clone the project with: ```https://github.com/214g1a3379/CSM-2021-25-Batch-B13.git```.
 
 2. Move to the base directory: ```cd Django-Twitter-Clone```
 
