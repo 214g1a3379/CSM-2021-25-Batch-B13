@@ -1,6 +1,6 @@
 # CSM-2021-25-Batch-B13
 
-# Toxic Comment Detection and Mitigation using Deep Learning
+# Comment Toxicity Classification and Mitigation using Deep Learning
 
 Fully functional Django App that looks ecxatly like real Twitter.
 
